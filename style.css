@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(101119lotd_bc_1280x720.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(35iit8q77ok31.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+    
+    
+}.box3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(8i40tmkb6xs31.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 58px;
+    color: cadetblue;
+    margin: -0px;
+    text-align:right;
+    display: table-cell;
+    vertical-align: middle;
+    
+}
+
+
+
+
+
+
+
+
+
